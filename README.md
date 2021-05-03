@@ -1,3 +1,2 @@
 # tim631.github.io
-# test site
-<h1>test</h1>
+<h1>My test site</h1>
