@@ -5,7 +5,7 @@
 <h1>↑NCS↑</h1>
 <br>
 <midi-player
-  src="https://github.com/tim631/tim631.github.io/raw/main/files/Never-Gonna-Give-You-Up-3.mid"
+  src="https://github.com/tim631/tim631.github.io/blob/main/files/Never-Gonna-Give-You-Up-3.mid?raw=true"
   sound-font visualizer="#myVisualizer">
 </midi-player>
 <br>
